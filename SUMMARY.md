@@ -7,16 +7,16 @@
 
 ### Book 1
 
-* [1. Self-Education](book-1-chapter-1-self-education.md)
-* [Chapter 2 - Children are Born Persons](book-1-chapter-2-children-are-born-persons.md)
-* [Chapter 3 - The Good and Evil Nature of a Child](philosophy-education-vol-6/book-1-chapter-3-good-and-evil-nature-child.md)
-* [Chapter 4 - Authority and Docility](philosophy-education-vol-6/book-1-chapter-4-authority-and-docility.md)
-* [Chapter 5 - The Sacredness of Personality](philosophy-education-vol-6/book-1-chapter-5-sacredness-personality.md)
-* [Chapter 6 - Three Instruments of Education](philosophy-education-vol-6/book-1-chapter-6-three-instruments-education.md)
-* [Chapter 7 - How We Make Use of Mind](philosophy-education-vol-6/book-1-chapter-7-how-we-make-use-mind.md)
-* [Chapter 8 - The Way of the Will](philosophy-education-vol-6/book-1-chapter-8-way-will.md)
-* [Chapter 9 - The Way of the Reason](philosophy-education-vol-6/book-1-chapter-9-way-reason.md)
-* [Chapter 10 - The Curriculum](philosophy-education-vol-6/book-1-chapter-10-curriculum.md)
+* [1. Self-Education](book1/.md)
+* [2. Children are Born Persons](book1/2.md)
+* [3. The Good and Evil Nature of a Child](book1/3.md)
+* [4. Authority and Docility](book1/4.md)
+* [5. The Sacredness of Personality](book1/5.md)
+* [6. Three Instruments of Education](book1/6.md)
+* [7. How We Make Use of Mind](book1/7.md)
+* [8. The Way of the Will](book1/8.md)
+* [9. The Way of the Reason](book1/9.md)
+* [10. The Curriculum](book1/10.md)
 
 ## BOOK 2
 
