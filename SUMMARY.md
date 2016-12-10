@@ -18,7 +18,7 @@
 * [9. The Way of the Reason](book1/9.md)
 * [10. The Curriculum](book1/10.md)
 
-## BOOK 2
+## Book 2
 
-* [Chapter 1 - A Liberal Education in Elementary Schools](http://www.amblesideschools.com/manual/Charlotte-Mason/book-2-chapter-1-liberal-education-elementary-schools)
-* [Chapter 2 - A Liberal Education in Secondary Schools](http://www.amblesideschools.com/manual/Charlotte-Mason/book-2-chapter-2-liberal-education-secondary-schools)
+* [1. A Liberal Education in Elementary Schools](book2/1.md)
+* [2. A Liberal Education in Secondary Schools](book2/2.md)
