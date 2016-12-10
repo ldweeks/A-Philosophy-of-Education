@@ -7,7 +7,7 @@
 
 ### Book 1
 
-* [1. Self-Education](book1/.md)
+* [1. Self-Education](book1/1.md)
 * [2. Children are Born Persons](book1/2.md)
 * [3. The Good and Evil Nature of a Child](book1/3.md)
 * [4. Authority and Docility](book1/4.md)
