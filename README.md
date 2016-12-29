@@ -1,3 +1,7 @@
+---
+title: README
+---
+
 # A Philosophy of Education
 
 by Charlotte Mason, 1923.
