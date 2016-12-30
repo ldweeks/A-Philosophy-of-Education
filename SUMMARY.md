@@ -1,3 +1,7 @@
+---
+author: Charlotte Mason
+---
+
 # A Philosophy of Education
 
 * [Author's Preface](preface.md)
