@@ -1,5 +1,5 @@
 ---
-title: README
+author: Charlotte Mason
 ---
 
 # A Philosophy of Education
@@ -7,3 +7,4 @@ title: README
 by Charlotte Mason, 1923.
 
 This work is in the public domain.
+
