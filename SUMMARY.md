@@ -1,5 +1,6 @@
 ---
-author: Charlotte Mason
+author: 
+- Charlotte Mason
 ---
 
 # A Philosophy of Education
